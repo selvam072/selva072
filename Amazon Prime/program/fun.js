@@ -6,15 +6,15 @@ function run() {
       }
        if (s=='Hindi')
       {
-            window.location.href="./hindi.html"
+            window.location.href="./index92.html"
       }
        if (s=='Kannada')
       {
-            window.location.href="./Kannada.html"
+            window.location.href="./index93.html"
       }
 }
 function non() {
- window.location.href="./html2.html"
+ window.location.href="./index2.html"
 }
 
 function t() {
@@ -22,13 +22,13 @@ function t() {
 }
 
 function c() {
- window.location.href="./html2.html"
+ window.location.href="./index2.html"
 }
 function don() {
- window.location.href="./hindi.html"
+ window.location.href="./index92.html"
 }
 function won() {
- window.location.href="./kannada.html"
+ window.location.href="./index93.html"
 }
 function ton() {
  window.location.href="./index1.html"
